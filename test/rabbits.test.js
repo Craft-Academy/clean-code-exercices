@@ -31,9 +31,9 @@ Rencontre 1 autre petit lapin blanc
 Rencontrent 1 autre petit lapin gris
 3 petits lapins gris sont devenus copains.
 
-3 petits lapins verts sautant sur le chemin
-Rencontrent 1 autre petit lapin vert
-4 petits lapins verts sont devenus copains.
+3 petits crapauds verts sautant sur le chemin
+Rencontrent 1 autre petit crapaud vert
+4 petits crapauds verts sont devenus copains.
 
 4 petits lapins blancs sautant sur le chemin
 Rencontrent 1 autre petit lapin blanc
