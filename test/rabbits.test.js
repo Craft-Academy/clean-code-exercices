@@ -43,9 +43,9 @@ Rencontrent 1 autre petit lapin blanc
 Rencontrent 1 autre petit lapin marron
 6 petits lapins marrons sont devenus copains.
 
-6 petits lapins blancs sautant sur le chemin
-Rencontrent 1 autre petit lapin blanc
-7 petits lapins blancs sont devenus copains.
+6 petits oiseaux blancs volant au dessus du chemin
+Rencontrent 1 autre petit oiseau blanc
+7 petits oiseaux blancs sont devenus copains.
 
 7 petits lapins blancs sautant sur le chemin
 Rencontrent 1 autre petit lapin blanc
